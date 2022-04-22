@@ -1,5 +1,6 @@
 ---
 layout: post
+category: example2
 ---
 
 https://github.com/temuujin-m/three.js
